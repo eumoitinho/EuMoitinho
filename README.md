@@ -1,26 +1,26 @@
- <!--  <p align="center">
+<p align="center">
   <img src="./assets/hello.gif" />
 </p>
 
 <p align="center">
   <a target="_blank" href="https://www.instagram.com/eumoitinho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
-  <a target="_blank" href="https://www.linkedin.com/in/eumoitinho>
+  <a target="_blank" href="https://www.linkedin.com/in/eumoitinho">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
   </a>
   <a target="_blank" href="https://moitinho.dev">
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
   </a>
-    <a target="_blank" href="https://moitinho.dev/curriculum.pdf">
+  <a target="_blank" href="https://moitinho.dev/curriculum.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
 </p>
 
 <div align="center">
-<a href="https://github/eumoitinho"><img alt="twitter" src="https://img.shields.io/github/followers/eumoitinho?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+  <a href="https://github.com/eumoitinho"><img alt="github" src="https://img.shields.io/github/followers/eumoitinho?color=181717&logo=github&style=for-the-badge&label=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=eumoitinho&style=for-the-badge&color=32325D"/>
 </div>
- -->
+
 ### **About:**
 
 ```diff
@@ -31,7 +31,8 @@
 ! Computer Engineer from the Federal University of Grande Dourados
 + Graphic Designer over 10 years of experience
 ! NodeJS and Nextjs programmer and always studying some technology
-# Interested in Typescript, Cloud, Embedded Systems, WebAssembly, Java stuff and headless CMS for React pages.```
+# Interested in Typescript, Cloud, Embedded Systems, WebAssembly, Java stuff and headless CMS for React pages.
+```
 
 ### **Tools:**
 
@@ -81,4 +82,8 @@
 ![Obsidian](https://img.shields.io/badge/obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 </div>
 
-<Entre erros e acertos, uma coisa é clara, estou aprendendo.>
+---
+
+<p align="center">
+  <i>Entre erros e acertos, uma coisa é clara: estou aprendendo.</i>
+</p>
